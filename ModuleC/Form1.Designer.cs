@@ -1,4 +1,4 @@
-﻿namespace ModuleC
+namespace ModuleC
 {
     partial class Form1
     {
@@ -41,7 +41,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(171, 120);
             this.label1.TabIndex = 2;
-            this.label1.Text = "C2";
+            this.label1.Text = "C3";
             // 
             // Form1
             // 
