@@ -39,9 +39,9 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(345, 120);
+            this.label1.Size = new System.Drawing.Size(171, 120);
             this.label1.TabIndex = 2;
-            this.label1.Text = "C by A";
+            this.label1.Text = "C2";
             // 
             // Form1
             // 
