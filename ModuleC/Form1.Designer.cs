@@ -41,7 +41,7 @@ namespace ModuleC
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(171, 120);
             this.label1.TabIndex = 2;
-            this.label1.Text = "C3";
+            this.label1.Text = "C4";
             // 
             // Form1
             // 
