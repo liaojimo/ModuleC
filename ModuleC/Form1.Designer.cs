@@ -39,15 +39,15 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(0, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(114, 120);
+            this.label1.Size = new System.Drawing.Size(345, 120);
             this.label1.TabIndex = 2;
-            this.label1.Text = "C";
+            this.label1.Text = "C by A";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(318, 261);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
